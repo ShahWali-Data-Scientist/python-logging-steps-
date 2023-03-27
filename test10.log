@@ -1,0 +1,14 @@
+INFO 2023-03-27 14:22:31,112 root  i am trynig to read a file
+CRITICAL 2023-03-27 14:22:31,113 root  this is a situation for us
+ERROR 2023-03-27 14:22:31,113 root  [Errno 2] No such file or directory: 'shah.txt'
+INFO 2023-03-27 14:23:41,122 root  i am trynig to read a file
+CRITICAL 2023-03-27 14:23:41,123 root  this is a situation for us
+ERROR 2023-03-27 14:23:41,123 root  [Errno 2] No such file or directory: 'shah.txt'
+INFO 2023-03-27 14:24:00,660 root  i am trynig to read a file
+CRITICAL 2023-03-27 14:24:00,660 root  this is a situation for us
+ERROR 2023-03-27 14:24:00,660 root  [Errno 2] No such file or directory: 'shah.txt'
+INFO 2023-03-27 14:24:00,660 root  i am trynig to read a file
+CRITICAL 2023-03-27 14:24:00,660 root  this is a situation for us
+ERROR 2023-03-27 14:24:00,661 root  [Errno 2] No such file or directory: 'shah.txt'
+CRITICAL 2023-03-27 14:25:37,246 root  this is a situation for us
+CRITICAL 2023-03-27 14:25:41,929 root  this is a situation for us

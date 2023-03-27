@@ -1,0 +1,21 @@
+INFO 2023-03-27 14:03:52,248 root  the number entered by user is 3 and 6
+INFO 2023-03-27 14:03:52,248 root  we are into function
+INFO 2023-03-27 14:03:52,249 root  we have completed a division operations
+INFO 2023-03-27 14:05:33,234 root  the number entered by user is 3 and 0
+INFO 2023-03-27 14:05:33,235 root  we are into function
+ERROR 2023-03-27 14:05:33,235 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\Shah Wali\Desktop\4 months Challenge\python project\tenth_step.py", line 27, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2023-03-27 14:08:04,662 root  the number entered by user is 3 and 0
+INFO 2023-03-27 14:08:04,662 root  we are into function
+ERROR 2023-03-27 14:08:04,662 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\Shah Wali\Desktop\4 months Challenge\python project\tenth_step.py", line 45, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+INFO 2023-03-27 14:08:48,224 root  the number entered by user is 3 and 7
+INFO 2023-03-27 14:08:48,224 root  we are into function
+INFO 2023-03-27 14:08:48,225 root  we have completed a division operations
+INFO 2023-03-27 14:08:48,225 root  result of code is 0.42857142857142855

@@ -1,0 +1,5 @@
+INFO:root:This is my first code for logging
+WARNING:root:This will try to load a warning message
+ERROR:root:This is a error message from sysytem
+INFO:root:[1, 2, 3, 4, 5, 6, 7, 7]
+WARNING:root:this is a warning for a user that they have found out 2 in list
